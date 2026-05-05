@@ -1,0 +1,4 @@
+last_modified=2026-05-05 12:45:05
+file_count=5
+staged_files=weights/last.pt, weights/best.pt, plots/results.csv, plots/labels.jpg, args.yaml
+run_dir=/kaggle/working/runs/detect/driver_monitoring_master/rpi_optimized_production
